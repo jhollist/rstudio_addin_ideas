@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# List of Rstudio Add-in ideas\n\nI really want to spend some time playing around with RStudio Add-ins.  This is\njust a running list of ideas\n\n1. hubit - an RStudio add-in to turn an RStudio project into a github \nrepository.  My use case for this is that I usually create an empty github \nrepo first, then create a project from version control with rstudio.  Often, \nthough, I forget and create a project first, but then I want to get it up as a \nrepo.  This requires more effort as I have to then create a repo, add the remote\nURL, push ...  An add-in could handle all of this with the click of button \n(or key)!",
+    "created" : 1462984019393.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3657328181",
+    "id" : "D5A7E159",
+    "lastKnownWriteTime" : 1462984321,
+    "last_content_update" : 1462984321461,
+    "path" : "~/projects/rstudio_addin_ideas/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
